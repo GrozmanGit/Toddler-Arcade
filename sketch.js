@@ -1676,10 +1676,10 @@ function flappyBirdPage()
   //image(bird, 48, vy, 60, 60);   
   
   
-  textFont(font);
+  /*textFont(font);
   textSize(25);
   fill("black");
-  text(`x: ${cursorX} y: ${cursorY}`, 220, 20);
+  text(`x: ${cursorX} y: ${cursorY}`, 220, 20);*/
   
   if (birdMouse == true) {
     noCursor();
