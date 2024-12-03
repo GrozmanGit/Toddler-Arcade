@@ -41,7 +41,7 @@
 
    ### Ryan Tang
     - Built Drawing Shapes clear button
-    - Contributed to project reporting
+    - Contributed to project reportings
 
 
 
