@@ -7,7 +7,7 @@
 
 
 
-# Contributers
+## Contributers
 
 - [GrozmanGit](https://github.com/GrozmanGit)
 - [Tact1calDroid](https://github.com/Tact1calDroid)
@@ -15,9 +15,9 @@
 
 
 
-# Credits
+## Credits
 
-   ## Tact1calDroid
+   ### Tact1calDroid
     - Built/Designed Mine Sweeper
     - Built/Designed Flappy Bird
     - Bug hunting 
@@ -27,7 +27,8 @@
     - Wrote level two for Whack a Mole
     - Wrote level two for Flappy Bird
 
-   ## GrozmanGit
+
+   ### GrozmanGit
     - Designed home page
     - Designed game option page
     - Built/Designed Whack a Mole
@@ -37,7 +38,8 @@
     - Resolved general/specific issues 
       with mechanics
 
-   ## Ryan Tang
+
+   ### Ryan Tang
     - Built Drawing Shapes clear button
     - Contributed to project reporting
 
