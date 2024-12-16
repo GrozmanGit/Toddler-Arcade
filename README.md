@@ -9,7 +9,7 @@
 
 ## Contributers
 
-- [GrozmanGit](https://github.com/GrozmanGit)
+- [TereshDK](https://github.com/TereshDK)
 - [Tact1calDroid](https://github.com/Tact1calDroid)
 - Ryan Tang
 
@@ -28,7 +28,7 @@
     - Wrote level two for Flappy Bird
 
 
-   ### GrozmanGit
+   ### TereshDK
     - Designed home page
     - Designed game option page
     - Built/Designed Whack a Mole
@@ -45,4 +45,4 @@
 
 
 
-![alt text](https://github.com/GrozmanGit/Toddler-Arcade/blob/master/readme/ToddlerArcadeFrontPage.png?raw=true)
+![alt text](https://github.com/TereshDK/Toddler-Arcade/blob/master/readme/ToddlerArcadeFrontPage.png?raw=true)
